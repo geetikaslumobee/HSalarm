@@ -1,2 +1,0 @@
-# HSalarm
-Alarm_solution
